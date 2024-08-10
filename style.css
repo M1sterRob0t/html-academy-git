@@ -12,3 +12,10 @@ h1 {
 p {
     color: pink;
 }
+
+a {
+    color: wheat;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Verdana;
+}
